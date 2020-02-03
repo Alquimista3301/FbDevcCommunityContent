@@ -101,6 +101,14 @@
   - Region: Latam
   - Github:
 
+**DevC Guatemala City**
+  - Leads: 
+    - [Bonnie Milián](https://www.facebook.com/BonnieMilianB)
+    - [Daniel Lara](https://www.facebook.com/DanielLara24)
+  - Facebook Group: https://www.facebook.com/groups/DevCGuatemala/
+  - Region: Latam
+  - Github:
+
 + **DevC [Add yours here]**
   - Leads: 
     - N/A
